@@ -3,7 +3,7 @@ package br.com.glandata.polimorfismo;
 import br.com.glandata.polimorfismo.model.Designer;
 import br.com.glandata.polimorfismo.model.EditorVideo;
 import br.com.glandata.polimorfismo.model.Gerente;
-import br.com.glandata.service.CalculoBonificacao;
+import br.com.glandata.polimorfismo.service.CalculoBonificacao;
 
 public class App {
 	public static void main(String[] args) {
